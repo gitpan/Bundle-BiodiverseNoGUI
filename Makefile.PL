@@ -24,7 +24,7 @@ WriteMakefile(
         "parent" => "0",
         "Readonly" => "0",
         "URI::Escape::XS" => "0",
-        "Statistics::Descriptive" => "3.2",
+        "Statistics::Descriptive" => "3.02",
         "Geo::Converter::dms2dd" => "0",
         "Text::Wrapper" => "0",
         "Exporter::Easy" => "0",

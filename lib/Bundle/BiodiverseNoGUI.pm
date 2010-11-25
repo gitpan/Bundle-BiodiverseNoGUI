@@ -3,8 +3,8 @@ package Bundle::BiodiverseNoGUI;
 use strict;
 use warnings;
 
-use vars qw($VERSION);
-our $VERSION = '0.15';
+#use vars qw($VERSION);
+our $VERSION = '0.15.1';
 
 
 
@@ -27,23 +27,41 @@ Bundle::BiodiverseNoGUI - Bundle to install Biodiverse dependencies for non-GUI 
 =head1 CONTENTS
 
 Data::DumpXML
+
 Math::Random::MT::Auto
+
 Devel::Symdump
+
 Text::CSV_XS
+
 DBD::XBase
+
 HTML::QuickTable
+
 YAML::Syck
+
 PadWalker
+
 Clone
+
 Regexp::Common
+
 lib
+
 mylib
+
 parent
+
 Readonly
+
 URI::Escape::XS
+
 Geo::Converter::dms2dd
+
 Statistics::Descriptive
+
 Text::Wrapper
+
 Exporter::Easy
 
 =head1 DESCRIPTION
