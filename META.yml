@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-BiodiverseNoGUI
-version:            0.15.1
+version:            0.15001
 abstract:           Bundle for Biodiverse dependencies for non-GUI use
 author:
     - Shawn Laffan (shawn.laffan@unsw.edu.au)
