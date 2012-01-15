@@ -28,5 +28,10 @@ WriteMakefile(
         "Geo::Converter::dms2dd" => "0",
         "Text::Wrapper" => "0",
         "Exporter::Easy" => "0",
+        "Exception::Class" => "0",
+        "Math::Polygon" => "0",
+        "MRO::Compat" => "0",
+        "File::BOM" => "0",
+        "Math::Polygon" => "0",
     }
 );

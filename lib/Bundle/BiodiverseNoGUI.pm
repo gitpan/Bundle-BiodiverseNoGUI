@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 #use vars qw($VERSION);
-our $VERSION = '0.15001';
+our $VERSION = '0.16';
 
 
 
@@ -63,6 +63,17 @@ Statistics::Descriptive
 Text::Wrapper
 
 Exporter::Easy
+
+Exception::Class
+
+Math::Polygon
+
+MRO::Compat
+
+File::BOM
+
+Math::Polygon
+
 
 =head1 DESCRIPTION
 
